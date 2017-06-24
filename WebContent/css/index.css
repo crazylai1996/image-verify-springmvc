@@ -1,0 +1,27 @@
+/* CSS Document */
+.img-wrapper{position:relative;}
+.img-wrapper img{
+	width:400px;
+	height:230px;
+}
+.pick-div{position:absolute;}
+.pick-div img{
+	width:24px;
+	height:24px;
+}
+.btns-div{
+	width:400px;
+	text-align:center;
+}
+.btns-div a{
+	display:inline-block;
+	line-height:30px;
+	width:60px;
+	color:#FFF;
+	font-size:16px;
+	text-align:center;
+	text-decoration:none;
+	border-radius:1px;
+	background-color:#0AC516;
+}
+.btns-div a:hover{background-color:#0AAA16;}
